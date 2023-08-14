@@ -1,0 +1,33 @@
+/* Reset default margin and padding for the body */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333; /* Add your desired background color */
+    padding: 20px;
+    color: white;
+  }
+
+  /* Style the .info div */
+.info {
+    background-color: #f7f7f7; /* Add your desired background color */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style the h2 inside .info */
+  .info h2 {
+    background-color: #3e7ed4; /* Add your desired background color */
+    color: white;
+    padding: 10px;
+  }
+  
+  /* Style the h3 inside .info */
+  .info h3 {
+    background-color: #ff7f50; /* Add your desired background color */
+    color: white;
+    padding: 5px;
+  }
